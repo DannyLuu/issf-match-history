@@ -2,7 +2,7 @@
 
 Private official-facing match history for ISSF-style pistol events.
 
-This repository is intended to provide a clean record of competition participation, scores, score breakdowns, and supporting evidence for review. It is not a training journal.
+This repository is intended to provide a clean record of competition participation, scores, score breakdowns, and supporting evidence for review.
 
 ## Scope
 
