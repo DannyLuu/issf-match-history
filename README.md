@@ -46,7 +46,7 @@ issf-match-history/
 │   ├── 2026-03-22-red-doolittle-sport-pistol.md
 │   ├── 2026-04-12-adrra-red-doolittle-standard-pistol.md
 │   ├── 2026-04-12-adrra-red-doolittle-sport-pistol.md
-│   ├── 2026-06-20-adrra-standard-pistol.md
+│   ├── 2026-06-21-adrra-standard-pistol.md
 │   └── 2026-06-21-adrra-sport-pistol.md
 └── Evidence/
     └── YYYY-MM-DD Match Name - Event/
@@ -148,8 +148,8 @@ Use one of these values in `matches.csv` and match reports:
 | 2026-03-22 | 25m Sport Pistol | 318 / 600 | Verified |
 | 2026-04-12 | 25m Standard Pistol | 384 / 600 | Published |
 | 2026-04-12 | 25m Sport Pistol | 384 / 600 | Published |
-| 2026-06-20 | 25m Standard Pistol | 378 / 600 | Unofficial |
-| 2026-06-21 | 25m Sport Pistol | 437 / 600 | Unofficial |
+| 2026-06-21 | 25m Standard Pistol | 385 / 600 | Verified |
+| 2026-06-21 | 25m Sport Pistol | 436 / 600 | Verified |
 
 ## Privacy and Access
 
