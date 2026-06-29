@@ -43,8 +43,8 @@
 | Evidence Type | Link | Notes |
 |---|---|---|
 | Published Result | https://scoretracker.sfc-ftc.ca/match/1292 | Score Tracker result page |
-| Score Sheet | ../images/2026-04-12-adrra-red-doolittle-sport-pistol/score-sheet.jpg | Signed score sheet image to be uploaded |
-| Score Tracker Screenshot | ../images/2026-04-12-adrra-red-doolittle-sport-pistol/score-tracker.png | Screenshot to be uploaded |
+| Competition Results | ../Evidence/2026-04-12 ADRRA Red Doolittle Match - Sport Pistol/Competition Results.png | Score Tracker screenshot, if uploaded |
+| Target Score | ../Evidence/2026-04-12 ADRRA Red Doolittle Match - Sport Pistol/Target Score.jpg | Signed score sheet, if uploaded |
 
 ## Verification Notes
 
@@ -57,3 +57,4 @@
 | Date | Change |
 |---|---|
 | 2026-06-29 | Initial result entry from Score Tracker and score sheet |
+| 2026-06-29 | Normalized evidence links to the Evidence folder convention |
