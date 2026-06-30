@@ -52,7 +52,6 @@ issf-match-history/
 1. Add evidence files under `Evidence/YYYY-MM-DD Match Name - Event/`
 2. Update [`matches.csv`](matches.csv)
 3. Create a detailed report in `matches/` using the template
-4. Keep entries official-facing—no equipment, ammo, or training notes
 
 ## Result Status Reference
 
