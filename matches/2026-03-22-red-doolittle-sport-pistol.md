@@ -40,7 +40,6 @@
 
 - TargetScores screenshot lists Danny L with score 318 and X-count 1.
 - Signed target score sheet shows series totals of 54, 63, 54, 55, 36, and 56 for a total of 318.
-- This record is official-facing only. Training notes, firearm details, ammunition, and equipment setup are intentionally excluded.
 
 ## Change Log
 
