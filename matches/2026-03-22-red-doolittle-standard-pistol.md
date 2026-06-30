@@ -40,7 +40,6 @@
 
 - TargetScores screenshot lists Danny L with score 351 and X-count 1.
 - Signed target score sheet shows series totals of 51, 52, 58, 61, 69, and 60 for a total of 351.
-- This record is official-facing only. Training notes, firearm details, ammunition, and equipment setup are intentionally excluded.
 
 ## Change Log
 
@@ -48,4 +47,5 @@
 |---|---|
 | 2026-06-29 | Added evidence-backed March match report shell |
 | 2026-06-29 | Updated score, X-count, and score breakdown from uploaded evidence |
-| 2026-06-30 | Updated Evidence Links with working GitHub URLs |
+| 2026-06-30 | Updated Evidence Links with working GitHub URLs and removed redundant note |
+| 2026-06-30 | Added SFC Score Tracker verification section |

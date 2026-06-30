@@ -20,16 +20,17 @@
 
 | Evidence Type | Link | Notes |
 |---|---|---|
-| Score Sheet | ../Evidence/2026-06-21 ADRRA Sport Pistol/score-sheet.jpg | Evidence path from previous match index |
+| Score Sheet | [score-sheet.jpg](https://github.com/DannyLuu/issf-match-history/blob/main/Evidence/2026-06-21%20ADRRA%20Sport%20Pistol/score-sheet.jpg) | Evidence path from previous match index |
 
 ## Verification Notes
 
 - Imported from the previous `Match Results.csv` record.
 - Additional score breakdown and evidence can be added when available.
-- This record is official-facing only. Training notes, firearm details, ammunition, and equipment setup are intentionally excluded.
 
 ## Change Log
 
 | Date | Change |
 |---|---|
 | 2026-06-29 | Imported from previous match index into consolidated folder structure |
+| 2026-06-30 | Updated Evidence Links with working GitHub URLs and removed redundant note |
+| 2026-06-30 | Added SFC Score Tracker verification section |
