@@ -33,8 +33,8 @@
 
 | Evidence Type | Link | Notes |
 |---|---|---|
-| Competition Results | ../Evidence/2026-03-22 Red Doolittle Pistol Match - Standard Pistol/Competition Results.png | TargetScores result page screenshot |
-| Target Score | ../Evidence/2026-03-22 Red Doolittle Pistol Match - Standard Pistol/Target Score.jpg | Signed target score sheet |
+| Competition Results | [Competition Results.png](https://github.com/DannyLuu/issf-match-history/blob/main/Evidence/2026-03-22%20Red%20Doolittle%20Pistol%20Match%20-%20Standard%20Pistol/Competition%20Results.png) | TargetScores result page screenshot |
+| Target Score | [Target Score.jpg](https://github.com/DannyLuu/issf-match-history/blob/main/Evidence/2026-03-22%20Red%20Doolittle%20Pistol%20Match%20-%20Standard%20Pistol/Target%20Score.jpg) | Signed target score sheet |
 
 ## Verification Notes
 
@@ -48,3 +48,4 @@
 |---|---|
 | 2026-06-29 | Added evidence-backed March match report shell |
 | 2026-06-29 | Updated score, X-count, and score breakdown from uploaded evidence |
+| 2026-06-30 | Updated Evidence Links with working GitHub URLs |
