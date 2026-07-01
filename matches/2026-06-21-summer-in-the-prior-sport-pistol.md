@@ -35,3 +35,4 @@
 | 2026-06-30 | Updated Evidence Links with working GitHub URLs and removed redundant note |
 | 2026-06-30 | Added SFC Score Tracker verification section |
 | 2026-06-30 | Updated with official SFC Score Tracker link (match 1426) |
+| 2026-06-30 | Renamed file to match naming convention |

@@ -5,16 +5,14 @@
 | Field | Value |
 |---|---|
 | Date | 2026-03-22 |
-| Match Name | 2025-26 Red Doolittle Memorial Pistol Match |
+| Match Name | 2026 March 22 ADRRA Red Doolittle Match |
 | Club / Host | ADRRA |
 | Location | Arnprior ON |
 | Event | 25m Standard Pistol |
-| Match Type | Club Match |
-| Result Status | Verified |
+| Match Type | Official Competition |
+| Result Status | Published |
 | Score | 351 / 600 |
 | Percentage | 58.50% |
-| Placement | Not listed on evidence page |
-| Classification | Unclassified |
 | X Count | 1 |
 
 ## Score Breakdown
@@ -33,14 +31,14 @@
 
 | Evidence Type | Link | Notes |
 |---|---|---|
-| Competition Results | ../Evidence/2026-03-22 Red Doolittle Pistol Match - Standard Pistol/Competition Results.png | TargetScores result page screenshot |
-| Target Score | ../Evidence/2026-03-22 Red Doolittle Pistol Match - Standard Pistol/Target Score.jpg | Signed target score sheet |
+| SFC Score Tracker | [View on Score Tracker](https://scoretracker.sfc-ftc.ca/match/1280) | Official SFC result - Quick verification |
+| Competition Results | [Competition Results.png](https://github.com/DannyLuu/issf-match-history/blob/main/Evidence/2026-03-22%20Red%20Doolittle%20Pistol%20Match%20-%20Standard%20Pistol/Competition%20Results.png) | TargetScores result page screenshot |
+| Target Score | [Target Score.jpg](https://github.com/DannyLuu/issf-match-history/blob/main/Evidence/2026-03-22%20Red%20Doolittle%20Pistol%20Match%20-%20Standard%20Pistol/Target%20Score.jpg) | Signed target score sheet |
 
 ## Verification Notes
 
-- TargetScores screenshot lists Danny L with score 351 and X-count 1.
+- Published Score Tracker result lists Danny Luu with score 351 and X-count 1.
 - Signed target score sheet shows series totals of 51, 52, 58, 61, 69, and 60 for a total of 351.
-- This record is official-facing only. Training notes, firearm details, ammunition, and equipment setup are intentionally excluded.
 
 ## Change Log
 
@@ -48,3 +46,6 @@
 |---|---|
 | 2026-06-29 | Added evidence-backed March match report shell |
 | 2026-06-29 | Updated score, X-count, and score breakdown from uploaded evidence |
+| 2026-06-30 | Updated Evidence Links with working GitHub URLs and removed redundant note |
+| 2026-06-30 | Added SFC Score Tracker verification section |
+| 2026-06-30 | Updated with official SFC Score Tracker link (match 1280) |

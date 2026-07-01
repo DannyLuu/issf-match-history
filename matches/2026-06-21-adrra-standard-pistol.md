@@ -1,35 +1,37 @@
-# 2026-06-20 ADRRA Match - 25m Standard Pistol
+# 2026-06-21 Summer in the Prior Match - 25m Standard Pistol
 
 ## Result Summary
 
 | Field | Value |
 |---|---|
-| Date | 2026-06-20 |
-| Match Name | ADRRA Match |
+| Date | 2026-06-21 |
+| Match Name | 2026 June 21 Summer in the Prior Match |
 | Club / Host | ADRRA |
 | Location | Arnprior ON |
 | Event | 25m Standard Pistol |
-| Match Type | Club Match |
-| Result Status | Unofficial |
+| Match Type | Official Competition |
+| Result Status | Published |
 | Score | 378 / 600 |
 | Percentage | 63.00% |
-| Placement | Not recorded |
 | X Count | Not recorded |
 
 ## Evidence Links
 
 | Evidence Type | Link | Notes |
 |---|---|---|
-| Score Sheet | ../Evidence/2026-06-20 ADRRA Standard Pistol/score-sheet.jpg | Evidence path from previous match index |
+| SFC Score Tracker | [View on Score Tracker](https://scoretracker.sfc-ftc.ca/match/1424) | Official SFC result - Quick verification |
+| Score Sheet | [score-sheet.jpg](https://github.com/DannyLuu/issf-match-history/blob/main/Evidence/2026-06-21%20ADRRA%20Standard%20Pistol/score-sheet.jpg) | Evidence path from previous match index |
 
 ## Verification Notes
 
-- Imported from the previous `Match Results.csv` record.
+- Published Score Tracker result lists Danny Luu with score 378.
 - Additional score breakdown and evidence can be added when available.
-- This record is official-facing only. Training notes, firearm details, ammunition, and equipment setup are intentionally excluded.
 
 ## Change Log
 
 | Date | Change |
 |---|---|
 | 2026-06-29 | Imported from previous match index into consolidated folder structure |
+| 2026-06-30 | Updated Evidence Links with working GitHub URLs and removed redundant note |
+| 2026-06-30 | Added SFC Score Tracker verification section |
+| 2026-06-30 | Updated with official SFC Score Tracker link (match 1424) |

@@ -16,7 +16,6 @@
 | Percentage | 64.00% |
 | Placement | 5 |
 | X Count | 0 |
-| Published Result | https://scoretracker.sfc-ftc.ca/match/1292 |
 
 ## Score Breakdown
 
@@ -42,15 +41,14 @@
 
 | Evidence Type | Link | Notes |
 |---|---|---|
-| Published Result | https://scoretracker.sfc-ftc.ca/match/1292 | Score Tracker result page |
-| Competition Results | ../Evidence/2026-04-12 ADRRA Red Doolittle Match - Sport Pistol/Competition Results.png | Score Tracker screenshot, if uploaded |
-| Target Score | ../Evidence/2026-04-12 ADRRA Red Doolittle Match - Sport Pistol/Target Score.jpg | Signed score sheet, if uploaded |
+| SFC Score Tracker | [View on Score Tracker](https://scoretracker.sfc-ftc.ca/match/1292) | Official SFC result - Quick verification |
+| Competition Results | [Competition Results.png](https://github.com/DannyLuu/issf-match-history/blob/main/Evidence/2026-04-12%20ADRRA%20Red%20Doolittle%20Match%20-%20Sport%20Pistol/Competition%20Results.png) | Score Tracker screenshot, if uploaded |
+| Target Score | [Target Score.jpg](https://github.com/DannyLuu/issf-match-history/blob/main/Evidence/2026-04-12%20ADRRA%20Red%20Doolittle%20Match%20-%20Sport%20Pistol/Target%20Score.jpg) | Signed score sheet, if uploaded |
 
 ## Verification Notes
 
 - Published Score Tracker result lists Danny Luu in 5th place with score 384 and X-count 0.
 - Signed score sheet shows total score of 384.
-- This record is official-facing only. Training notes, firearm details, ammunition, and equipment setup are intentionally excluded.
 
 ## Change Log
 
@@ -58,3 +56,5 @@
 |---|---|
 | 2026-06-29 | Initial result entry from Score Tracker and score sheet |
 | 2026-06-29 | Normalized evidence links to the Evidence folder convention |
+| 2026-06-30 | Updated Evidence Links with working GitHub URLs and removed redundant note |
+| 2026-06-30 | Added SFC Score Tracker verification link |
