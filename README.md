@@ -1,19 +1,21 @@
 # ISSF Match History
 
-Private official-facing match history for ISSF-style pistol events.
+Private match history of Danny Luu for ISSF-style pistol events.
 
 This repository provides a clean record of competition participation, scores, and supporting evidence for review.
+
+SFC No. 03809040
 
 ## Current Results
 
 | Date | Event | Score | Status | Details |
 |---|---|---:|---|---|
-| 2026-03-22 | 25m Standard Pistol | 351 / 600 | Verified | [Report](matches/2026-03-22-red-doolittle-standard-pistol.md) |
-| 2026-03-22 | 25m Sport Pistol | 318 / 600 | Verified | [Report](matches/2026-03-22-red-doolittle-sport-pistol.md) |
+| 2026-03-22 | 25m Standard Pistol | 351 / 600 | Published | [Report](matches/2026-03-22-red-doolittle-standard-pistol.md) |
+| 2026-03-22 | 25m Sport Pistol | 318 / 600 | Published | [Report](matches/2026-03-22-red-doolittle-sport-pistol.md) |
 | 2026-04-12 | 25m Standard Pistol | 384 / 600 | Published | [Report](matches/2026-04-12-adrra-red-doolittle-standard-pistol.md) |
 | 2026-04-12 | 25m Sport Pistol | 384 / 600 | Published | [Report](matches/2026-04-12-adrra-red-doolittle-sport-pistol.md) |
-| 2026-06-20 | 25m Standard Pistol | 378 / 600 | Unofficial | [Report](matches/2026-06-20-adrra-standard-pistol.md) |
-| 2026-06-21 | 25m Sport Pistol | 437 / 600 | Unofficial | [Report](matches/2026-06-21-adrra-sport-pistol.md) |
+| 2026-06-20 | 25m Standard Pistol | 378 / 600 | Published | [Report](matches/2026-06-20-adrra-standard-pistol.md) |
+| 2026-06-21 | 25m Sport Pistol | 437 / 600 | Published | [Report](matches/2026-06-21-adrra-sport-pistol.md) |
 
 ## About This Repository
 
