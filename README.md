@@ -14,8 +14,8 @@ SFC No. 03809040
 | 2026-03-22 | 25m Sport Pistol | 318 / 600 | Published | [Report](matches/2026-03-22-red-doolittle-sport-pistol.md) |
 | 2026-04-12 | 25m Standard Pistol | 384 / 600 | Published | [Report](matches/2026-04-12-adrra-red-doolittle-standard-pistol.md) |
 | 2026-04-12 | 25m Sport Pistol | 384 / 600 | Published | [Report](matches/2026-04-12-adrra-red-doolittle-sport-pistol.md) |
-| 2026-06-20 | 25m Standard Pistol | 378 / 600 | Published | [Report](matches/2026-06-20-adrra-standard-pistol.md) |
-| 2026-06-21 | 25m Sport Pistol | 437 / 600 | Published | [Report](matches/2026-06-21-adrra-sport-pistol.md) |
+| 2026-06-20 | 25m Standard Pistol | 378 / 600 | Published | [Report](matches/2026-06-21-summer-in-the-prior-standard-pistol.md) |
+| 2026-06-21 | 25m Sport Pistol | 437 / 600 | Published | [Report](matches/2026-06-21-summer-in-the-prior-sport-pistol.md) |
 
 ## About This Repository
 
