@@ -15,7 +15,7 @@
 | Score | 384 / 600 |
 | Percentage | 64.00% |
 | Placement | 5 |
-| X Count | 0 |
+| X Count | 2 |
 
 ## Score Breakdown
 
@@ -32,8 +32,8 @@
 |---|---|---:|---:|
 | 1 | 150 sec | 65 | 100 |
 | 2 | 150 sec | 71 | 100 |
-| 3 | 20 sec | 48 | 100 |
-| 4 | 20 sec | 69 | 100 |
+| 3 | 20 sec | 50 | 100 |
+| 4 | 20 sec | 67 | 100 |
 | 5 | 10 sec | 69 | 100 |
 | 6 | 10 sec | 62 | 100 |
 | Total |  | 384 | 600 |
@@ -48,8 +48,9 @@
 
 ## Verification Notes
 
-- Published Score Tracker result lists Danny Luu in 5th place with score 384 and X-count 0.
-- Signed score sheet shows total score of 384.
+- Published Score Tracker result lists Danny Luu in 5th place with score 384.
+- Signed score sheet shows series scores of 65, 71, 50, 67, 69, and 62, totaling 384.
+- Signed score sheet records two centre 10s (X-count 2).
 
 ## Change Log
 
@@ -59,3 +60,4 @@
 | 2026-06-29 | Normalized evidence links to the Evidence folder convention |
 | 2026-06-30 | Updated Evidence Links with working GitHub URLs and removed redundant note |
 | 2026-06-30 | Added SFC Score Tracker verification link |
+| 2026-07-21 | Corrected third series from 48 to 50 and X-count from 0 to 2 using signed score sheet |
