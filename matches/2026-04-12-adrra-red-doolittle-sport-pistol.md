@@ -48,7 +48,9 @@
 ## Verification Notes
 
 - Published Score Tracker result lists Danny Luu in 5th place with score 384 and X-count 0.
-- Signed score sheet shows total score of 384.
+- Signed score sheet shows precision series of 65, 80, and 47, totaling 192.
+- Signed score sheet shows rapid series of 61, 64, and 67, totaling 192.
+- Signed score sheet total is 384.
 
 ## Change Log
 
@@ -58,3 +60,4 @@
 | 2026-06-29 | Normalized evidence links to the Evidence folder convention |
 | 2026-06-30 | Updated Evidence Links with working GitHub URLs and removed redundant note |
 | 2026-06-30 | Added SFC Score Tracker verification link |
+| 2026-07-21 | Verified all series and stage totals against the signed score sheet |
